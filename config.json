@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseealculate",
+        "uuid": 5463540,
+        "checksum": "7fbrja"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
